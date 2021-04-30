@@ -14,14 +14,12 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me:
 
-[<img align="left" alt="A-Lupi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Twitter.svg" />][twitter]
-[<img align="left" alt="A-Lupi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Linkedin.svg" />][linkedin]
-
-<br />
-
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" />
+  
 ---
 
 </details>
 
-[twitter]: https://twitter.com/A_Lupi_
-[linkedin]: https://www.linkedin.com/in/lupiagustin/
+
+
+
