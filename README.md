@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ## I'm a Student and Developer!
 - :desktop_computer: I'm studying Data Science at the University of Buenos Aires.  
 - 🌱 I’m currently learning Rails by building an app called "Review it".
-- 👯 I’m looking to collaborate and learn from other developers.
+- 👯 I’m looking to collaborate with and learn from other developers.
 - 🥅 2021 Goals: Build more web applications to continue practicing and contribute to Open Source projects.
 - ⚡ Fun fact: I love powerlifting and I'm a devoted fan of kakapos.
 
