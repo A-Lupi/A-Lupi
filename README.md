@@ -22,5 +22,21 @@ You can click the Preview link to take a look at your changes.
 
 
 
+## My Stack and tools :computer::
+
+<p align="center">
+  <a href="#"><img src="ruby.svg" alt="drawing" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="#"><img src="rubyonrails.svg" alt="drawing" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="#"><img src="postgresql.svg" alt="drawing" width="40"/></a>
+</p>
+
+<p align="center">
+  <a href="#"><img src="git.svg" alt="drawing" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="#"><img src="github.svg" alt="drawing" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="#"><img src="windows.svg" alt="drawing" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="#"><img src="linux.svg" alt="drawing" width="40"/></a>
+ </p>
+
+
 
 
